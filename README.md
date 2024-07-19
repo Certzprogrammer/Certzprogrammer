@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Certzprogrammer
-- 👀 I’m interested in Ethicl Hacking
+- 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
